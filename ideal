@@ -1,0 +1,2 @@
+DBNode: nlclcx1627
+dcli -g /root/cell_group -l root "uname -a"
